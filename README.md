@@ -9,9 +9,15 @@
 <a href="https://discord.gg/Noirod#7729" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"  height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,heroku,js,linux,php,py,rails,ruby,vscode,html,figma"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,java,js,php,symfony,py,rails,ruby,html, postgres,sqlite,"/>
+  </a>
+</p>
+<h3 align="center">Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,heroku,linux,vscode,figma,docker,github,postman,"/>
   </a>
 </p>
